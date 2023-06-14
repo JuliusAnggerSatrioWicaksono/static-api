@@ -1,0 +1,7 @@
+[
+    { "mataUang" : "Euro", "nilai" : "$1,08", "imageId" : "euro"},
+    { "mataUang" : "Poundsterling", "nilai" : "$1,26", "imageId" : "pound"},
+    { "mataUang" : "Dinar Kuwait", "nilai" : "$3,25", "imageId" : "kuwait"},
+    { "mataUang" : "Riyal", "nilai" : "$0,27", "imageId" : "riyal"},
+    { "mataUang" : "Rupiah", "nilai" : "$0,000067 Dolar", "imageId" : "rupiah"}
+]
